@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave-hand.gif" width="30px"> Hi there, I'm Hirushi Gayanjini
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There+👋,+I'm+Hirushi+Gayanjini;Welcome+to+My+GitHub+Profile!;BICT+Undergraduate+@+Rajarata;UI%2FUX+Designer+&+Web+Developer" alt="Typing Animation" />
+</p>
 
 <p align="left">
   A passionate BICT Undergraduate from Rajarata University of Sri Lanka, exploring the world of UI/UX design and Web Development.

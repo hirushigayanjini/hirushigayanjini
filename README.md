@@ -24,7 +24,7 @@
 - 🌱 Currently exploring more about **Django, Python, and TypeScript**
 - 🤝 Open for collaborations on exciting web development projects
 - ✉️ How to reach me: **[Oyage Email eka methanata danna]**
-- 🔗 LinkedIn: **[Oyage LinkedIn Link eka methanata danna]**
+- 🔗 LinkedIn: www.linkedin.com/in/hirushi-gayanjini-36885b2b0
 
 ### 🛠️ Languages and Tools
 

@@ -11,20 +11,10 @@
 - 🌱 Currently exploring more about **Django, Python, and TypeScript**
 - 🤝 Open for collaborations on exciting web development projects
 - ✉️ How to reach me: hirushigayanjini418@gmail.com
-- 🔗 LinkedIn: # Hi there 👋, I'm Hirushi Gayanjini
-
+- 🔗 LinkedIn:www.linkedin.com/in/hirushi-gayanjini-36885b2b0
 <p align="left">
   A passionate BICT Undergraduate from Rajarata University of Sri Lanka, exploring the world of UI/UX design and Web Development.
 </p>
-
-### 👩‍💻 About Me
-
-- 🎓 BICT Undergraduate @ Rajarata University of Sri Lanka
-- ✨ Passionate about UI/UX Design & Full-Stack Web Development
-- 🌱 Currently exploring more about **Django, Python, and TypeScript**
-- 🤝 Open for collaborations on exciting web development projects
-- ✉️ How to reach me: **[Oyage Email eka methanata danna]**
-- 🔗 LinkedIn: www.linkedin.com/in/hirushi-gayanjini-36885b2b0
 
 ### 🛠️ Languages and Tools
 

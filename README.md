@@ -10,7 +10,7 @@
 
 - 🎓 BICT Undergraduate @ Rajarata University of Sri Lanka
 - ✨ Passionate about UI/UX Design & Full-Stack Web Development
-- 🌱 Currently exploring more about **Django, Python, and TypeScript**
+- 🌱 Currently exploring more about **Java, Python, and HTML/CSS**
 - 🤝 Open for collaborations on exciting web development projects
 - ✉️ How to reach me: hirushigayanjini418@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/hirushi-gayanjini-36885b2b0
